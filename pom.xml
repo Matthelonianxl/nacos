@@ -522,7 +522,7 @@
             <dependency>
                 <groupId>com.alibaba</groupId>
                 <artifactId>fastjson</artifactId>
-                <version>1.2.47</version>
+                <version>1.2.69</version>
             </dependency>
 
             <!-- javax libs-->
@@ -635,7 +635,7 @@
             <dependency>
                 <groupId>com.ning</groupId>
                 <artifactId>async-http-client</artifactId>
-                <version>1.7.17</version>
+                <version>1.9.22</version>
             </dependency>
 
             <!-- JDBC libs -->
@@ -702,7 +702,7 @@
             <dependency>
                 <groupId>io.netty</groupId>
                 <artifactId>netty-all</artifactId>
-                <version>4.0.42.Final</version>
+                <version>4.1.44.Final</version>
             </dependency>
 
             <dependency>
